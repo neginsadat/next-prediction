@@ -1,1 +1,2 @@
-# next-prediction
+# next word-prediction
+نگین السادات حسینی مبانی گفتار  پنج شنبه سکشن 13 - 15:30
